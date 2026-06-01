@@ -138,8 +138,8 @@ export const publications = [
 		authors: "Mood Mohan and Sreelekha Guggilam and Debsindhu Bhowmik and Michelle K Kidder and Jeremy C Smith",
 		venue: "ACS Sustainable Chemistry & Engineering, vol. 13, no. 48, pp. 20737-20753",
 		time: "2025",
-		doi: "10.1021/acssuschemeng.5c08057",
-		citation: "M. Mohan, S. Guggilam, D. Bhowmik, M. K. Kidder, J. C. Smith (2025). Leveraging Natural Language Processing and Generative Models in Molecular Chemistry: Property Prediction and Novel Compound Generation. ACS Sustainable Chemistry & Engineering, vol. 13, no. 48, pp. 20737-20753. https://doi.org/10.1021/acssuschemeng.5c08057"
+		doi: "10.1021/acssuschemeng.5c08057.s001",
+		citation: "M. Mohan, S. Guggilam, D. Bhowmik, M. K. Kidder, J. C. Smith (2025). Leveraging Natural Language Processing and Generative Models in Molecular Chemistry: Property Prediction and Novel Compound Generation. ACS Sustainable Chemistry & Engineering, vol. 13, no. 48, pp. 20737-20753. https://doi.org/10.1021/acssuschemeng.5c08057.s001"
 	},
 	{
 		title: "Iterative Misclassification Error Training (IMET): An Optimized Neural Network Training Technique for Image Classification",
@@ -162,8 +162,8 @@ export const publications = [
 		authors: "Mood Mohan and Karuna Devi Jetti and Sreelekha Guggilam and Micholas Dean Smith and Michelle K Kidder and Jeremy C Smith",
 		venue: "ACS Sustainable Chemistry & Engineering, vol. 12, no. 18, pp. 7040-7054",
 		time: "2024",
-		doi: "10.1021/acssuschemeng.4c00631.s001",
-		citation: "M. Mohan, K. D. Jetti, S. Guggilam, M. D. Smith, M. K. Kidder, J. C. Smith (2024). High-throughput screening and accurate prediction of ionic liquid viscosities using interpretable machine learning. ACS Sustainable Chemistry & Engineering, vol. 12, no. 18, pp. 7040-7054. https://doi.org/10.1021/acssuschemeng.4c00631.s001"
+		doi: "10.1021/acssuschemeng.4c00631",
+		citation: "M. Mohan, K. D. Jetti, S. Guggilam, M. D. Smith, M. K. Kidder, J. C. Smith (2024). High-throughput screening and accurate prediction of ionic liquid viscosities using interpretable machine learning. ACS Sustainable Chemistry & Engineering, vol. 12, no. 18, pp. 7040-7054. https://doi.org/10.1021/acssuschemeng.4c00631"
 	},
 	{
 		title: "Climate Variable Tipping Points for Rift Valley Fever Outbreaks",
